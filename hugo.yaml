@@ -1,0 +1,29 @@
+baseURL: https://tgb.gg/
+languageCode: en-us
+title: tgb.gg
+theme: ["PaperMod"]
+params:
+  defaultTheme: auto
+  homeInfoParams:
+    Title: tgb's Blog
+    Content: Dump of information I want to share
+
+  socialIcons: # optional
+    - name: "YouTube"
+      url: "https://youtube.com/@jacobbashista"
+    - name: "Bluesky"
+      url: "https://bsky.app/profile/onlinemo.de"
+    - name: "X"
+      url: "https://x.com/jacobbashista"      
+  ShowReadingTime: true
+  ShowToc: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+menu:
+  main:
+    - identifier: search
+      name: "Search"
+      url: /search
