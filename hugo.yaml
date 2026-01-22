@@ -2,7 +2,7 @@ baseURL: https://tgb.gg/
 languageCode: en-us
 title: tgb.gg
 theme: archie
-copyright: "Jacob Bashista"
+copyright: "tgb"
 params:
   mode: dark
   useCDN: false
