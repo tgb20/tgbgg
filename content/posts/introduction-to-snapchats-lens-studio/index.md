@@ -2,7 +2,7 @@
 title: "Introduction to Snapchat’s Lens Studio"
 url: "/introduction-to-snapchats-lens-studio"
 description: "In this tutorial we will be going over how Lens Studio works."
-date: 2018-1-11
+date: 2018-01-11
 tags: ["ar", "guide"]
 ---
 
