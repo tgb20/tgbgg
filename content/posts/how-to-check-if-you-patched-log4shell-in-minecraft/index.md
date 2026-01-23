@@ -3,7 +3,7 @@ title: "How to check if you patched Log4Shell in Minecraft"
 url: "/how-to-check-if-you-patched-log4shell-in-minecraft"
 description: "Log4Shell allows any java application using the log4j logging library to execute remote code from an attacker."
 date: 2021-12-20
-tags: ["minecraft"]
+tags: ["minecraft", "guide"]
 ---
 
 If you are reading this post you are probably aware of the log4shell vulnerability that was discovered a little over a week ago. This allows any java application using the log4j logging library to execute remote code from an attacker. Paper, Forge, and Mojang were quick to patch the servers against the threat.

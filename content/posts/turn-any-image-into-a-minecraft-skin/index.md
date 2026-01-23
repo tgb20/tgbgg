@@ -3,7 +3,7 @@ title: "Turn any Image into a Minecraft Skin"
 url: "/turn-any-image-into-a-minecraft-skin"
 description: "I built a tool to make whatever Minecraft skin you wanted!"
 date: 2020-10-01
-tags: ["minecraft"]
+tags: ["minecraft", "guide"]
 ---
 
 I have been running a Minecraft server for a streamer named Geof for a little over a year now and during a celebration stream for his Twitch partnership I thought it would be funny to put his face on a Minecraft Skin. I went to find a tool online to make this easy for me and I couldn't find one. I ended up building the skin in Photoshop, but from then on I thought it would be cool to have a website that could make these skins for you.
